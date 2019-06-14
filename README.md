@@ -3,16 +3,12 @@ Frontend Frameworks
 
 # JavaScript framework
 
-  Angular
-  AngularJS
-
-  ReactJS
-
-  VueJS
-
-  KnockoutJS
-
-  BackboneJS
+- Angular
+- AngularJS
+- ReactJS
+- VueJS
+- KnockoutJS
+- BackboneJS
 
 # UI design framework
 
