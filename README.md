@@ -12,7 +12,7 @@ Frontend Frameworks
 
 # UI design framework
 
-- [Bootstrap 4][https://getbootstrap.com/]
+- [Bootstrap 4 - https://getbootstrap.com/]
 - [Foundation][https://foundation.zurb.com/]
 - [Bulma][https://bulma.io/]
 - [Tailwind CSS][https://tailwindcss.com/]
