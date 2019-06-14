@@ -17,5 +17,5 @@ Frontend Frameworks
 - Bulma - https://bulma.io/
 - Tailwind CSS - https://tailwindcss.com/
 - Refactoring - https://refactoringui.com/
-- Semantic UI
+- Semantic UI - https://semantic-ui.com/
 - Materialize CSS
